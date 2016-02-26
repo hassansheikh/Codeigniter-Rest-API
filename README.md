@@ -1,6 +1,8 @@
 # careaxiom
 Rest api
 
+unzip the ci.rar first
+
 Import tha codeigniter file from project root
 codeigniter.sql
 
